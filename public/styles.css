@@ -1,0 +1,39 @@
+div {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.container {
+  background-color: whitesmoke;
+  display: flex;
+  justify-content: space-between;
+}
+.message {
+  background-color: steelblue;
+  color: whitesmoke;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.receiver {
+  text-align: right;
+}
+
+button {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: brown;
+  color: whitesmoke;
+}
+
+.editdelete {
+  display: flex;
+  gap: 20px;
+}
